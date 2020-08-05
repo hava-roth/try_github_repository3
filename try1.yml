@@ -1,4 +1,4 @@
-name: compbio
+name: try1
 channels:
  - bioconda
  - conda-forge
